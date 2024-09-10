@@ -1,4 +1,4 @@
-# Bash-Directory-and-File-Creator-Script(d1rcr3at0r)
+# d1rcr3at0r Bash-Directory-and-File-Creator-Script
 
 ## Description
 
